@@ -8,7 +8,7 @@ This repository contains the public version of my MSc thesis in **Applied Mathem
 
 ---
 
-## 📘 Summary
+## Summary
 
 This work focuses on the accurate simulation of **three-dimensional incompressible flows past obstacles**, using **vorticity-based penalization techniques** within a modern high-performance computational framework.
 
@@ -28,7 +28,7 @@ The goal of Murphy is to provide a **flexible, scalable, and efficient platform*
 
 ---
 
-## 📄 Report
+## Report
 
 📖 [View the thesis online](https://alexandreyoussefresearch.github.io/thesis-uclouvain-mit/ReportPublic/Thesis_UCLouvain_MIT.pdf)
 
@@ -36,7 +36,7 @@ The goal of Murphy is to provide a **flexible, scalable, and efficient platform*
 
 ---
 
-## 📬 Contact
+## Contact
 
 For any questions:  
 **alexandre.youssef.pro@gmail.com**
