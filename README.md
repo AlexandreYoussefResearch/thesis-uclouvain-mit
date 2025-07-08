@@ -26,15 +26,6 @@ Its architecture is based on:
 
 The goal of Murphy is to provide a **flexible, scalable, and efficient platform** for multiscale physics simulations, with an emphasis on accurate geometry representation and high parallel efficiency.
 
----
-
-## Report
-
-📖 [View the thesis online](https://alexandreyoussefresearch.github.io/thesis-uclouvain-mit/ReportPublic/Thesis_UCLouvain_MIT.pdf)
-
-> This is the public version of the thesis. All implementation details remain confidential.
-
----
 
 ## Contact
 
